@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+title: Alex Giacobbi
+email: agiacobbi21@gmail.com
+github_username: agiacobbi
