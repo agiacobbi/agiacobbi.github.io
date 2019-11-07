@@ -1,3 +1,9 @@
-.current { color: green; }
+.current { color: #700a8f; }
+
+.h1 { font-size: 36em; font-family: Arial, Helvetica, sans-serif; }
+
+.title { font-size: 36em; font-family: Arial, Helvetica, sans-serif; }
+
+.body { font-family: Arial, Helvetica, sans-serif; font-size: 12em; }
 
 /*# sourceMappingURL=styles.css.map */
