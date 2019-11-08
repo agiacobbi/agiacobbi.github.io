@@ -6,9 +6,16 @@ ABOUT ME
 Hi! My name is Alex Giacobbi and I am an undergraduate Computer Science
 student at Gonzaga University. 
 
+Work as a research assistant and teaching assistant
+
+In free time, i enjoy - sports, music, travel
+
 PROJECTS
 - NSF REU Project
 - Gonzaga Research project
+- AVL tree
+- Shakespeare text generator
+
 
 NEWS
 october 2019- began project with mark vandam
