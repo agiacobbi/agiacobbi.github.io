@@ -14,6 +14,6 @@ offce hours and break down confusing topics. I also develop test programs to gra
 Outside of the classroom, you can probably find me outside playing sports As a teaching assistant,
 or at a piano teaching myself a new song. 
 
-For a quick summary, you can find my resume [here](https://github.com/agiacobbi/agiacobbi.github.io/_site/assets).
+For a quick summary, you can find my resume [here](/assets/Resume.pdf).
 To see more of my work, check out [my Github](https://github.com/agiacobbi).
 
