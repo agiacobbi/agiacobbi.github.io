@@ -11,7 +11,7 @@ On campus, I work as a research assistant and a teaching assistant. My research 
 processing and feature extraction from child-directed speech data. Read more about this
 in the Projects section. As a teaching assistant, I interact with students during
 offce hours and break down confusing topics. I also develop test programs to grade assignments.
-Outside of the classroom, you can probably find me outside playing sports As a teaching assistant,
+Outside of the classroom, you can probably find me outside playing sports, tutoring fellow students,
 or at a piano teaching myself a new song. 
 
 For a quick summary, you can find my resume [here](/assets/Resume.pdf).
