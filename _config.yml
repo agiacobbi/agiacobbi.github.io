@@ -21,9 +21,7 @@
 title: Alex Giacobbi
 email: agiacobbi21@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I am a student studying Computer Science. Explore this site
-  to learn more about me and some projects I am working on. Feel 
-  free to reach out with any questions.
+  Hi! Welcome to my personal site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  agiacobbi

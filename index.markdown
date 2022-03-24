@@ -6,14 +6,25 @@ layout: home
 title: About Me
 ---
 
-My name is Alex Giacobbi and I am a Computer Science major at Gonzaga University.
-On campus, I work as a research assistant and a teaching assistant. My research is in 
-processing and feature extraction from child-directed speech data. Read more about this
-in the Projects section. As a teaching assistant, I interact with students during
-offce hours and break down confusing topics. I also develop test programs to grade assignments.
-Outside of the classroom, you can probably find me outside playing sports, tutoring fellow students,
-or at a piano teaching myself a new song. 
+Hi! I'm Alex Giacobbi and I develop software at Expedia Group. I recently graduated from 
+Gonzaga University with a degree in Computer Science. Now, I live and work in Seattle, WA.
 
-For a quick summary, you can find my updated resume [here](./assets/Resume.pdf).
-To see more of my work, check out [my Github](https://github.com/agiacobbi).
+At Expedia Group, I am helping to pilot a new graduate program. As part of this program, new
+graduates (me) will complete two six-month rotations with two different teams before being
+placed in a permanent team. I recently finished my first rotation in the InsurTech 
+division here at EG. In this team, I became very familiar our travel insurance business. 
+Over the last seven months, I learned about our architecture by working on our internal services
+and our about business goals by cooperating with our product team and external partners to deliver on
+various objectives. There is a great culture at Expedia that encourages us to collaborate with 
+and learn from the many talented developers at our company. My next rotation takes me to the 
+Order/Trip Services division. I am excited to begin this new learning opportunity.
+
+Outside of work, I have been enjoying my new home in Seattle. Growing up in Arizona
+has taught me to appreciate the seasons and occasional rain. In my free time,
+you will usually find me doing something active and outdoors. I love hiking, skiing and playing 
+all sorts of sports -- basketball, soccer, tennis, golf -- you name it. I also love to travel,
+and enjoy spending time plotting my next trip.
+
+You can find my updated resume [here](./assets/Resume.pdf).
+To see some of my work, check out [my Github](https://github.com/agiacobbi).
 
